@@ -8,7 +8,7 @@
 
 ## 🚀 Live Demo
 
-🔗 **[https://samichohan-house-price-prediction.hf.space](https://samichohan-house-price-prediction.hf.space)**
+ Live App:  🔗 **[https://samichohan-house-price-prediction.hf.space](https://samichohan-house-price-prediction.hf.space)**
 
 
 
